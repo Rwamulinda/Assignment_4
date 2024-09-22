@@ -1,0 +1,95 @@
+brutus          [9]: 7,  11,  12,  16,  17,  23,  24,  28,  30
+caesar          [8]: 4,  7,  8,  10,  20,  21,  36,  39
+was             [7]: 8,  9,  15,  16,  23,  27,  28
+ambitious       [5]: 8,  16,  20,  23,  28
+did             [5]: 19,  20,  25,  27,  32
+honourable      [5]: 12,  13,  17,  24,  29
+hath            [4]: 8,  10,  18,  21
+man             [4]: 12,  17,  24,  29
+men             [3]: 5,  13,  35
+says            [3]: 16,  23,  28
+speak           [3]: 14,  30,  31
+ambition        [2]: 22,  27
+cause           [2]: 32,  33
+here            [2]: 11,  31
+thrice          [2]: 26,  27
+yet             [2]: 23,  28
+act             [1]: 39
+am              [1]: 31
+answer'd        [1]: 10
+antony          [1]: 1
+art             [1]: 34
+bear            [1]: 35
+beasts          [1]: 34
+bones           [1]: 6
+brought         [1]: 18
+brutish         [1]: 34
+bury            [1]: 4
+caesar's        [1]: 14
+captives        [1]: 18
+coffers         [1]: 19
+coffin          [1]: 36
+countrymen      [1]: 3
+cried           [1]: 21
+crown           [1]: 26
+disprove        [1]: 30
+ears            [1]: 3
+evil            [1]: 5
+faithful        [1]: 15
+fault           [1]: 9
+fill            [1]: 19
+fled            [1]: 34
+friend          [1]: 15
+friends         [1]: 3
+funeral         [1]: 14
+general         [1]: 19
+grievous        [1]: 9
+grievously      [1]: 10
+heart           [1]: 36
+home            [1]: 18
+iii             [1]: 39
+interred        [1]: 6
+judgment        [1]: 34
+julius          [1]: 39
+kingly          [1]: 26
+leave           [1]: 11
+lend            [1]: 3
+let             [1]: 7
+lives           [1]: 5
+lost            [1]: 35
+love            [1]: 32
+lupercal        [1]: 25
+made            [1]: 22
+many            [1]: 18
+mourn           [1]: 33
+must            [1]: 37
+noble           [1]: 7
+o               [1]: 34
+oft             [1]: 6
+once            [1]: 32
+pause           [1]: 37
+poor            [1]: 21
+praise          [1]: 4
+presented       [1]: 26
+ransoms         [1]: 19
+reason          [1]: 35
+refuse          [1]: 27
+rest            [1]: 11
+romans          [1]: 3
+rome            [1]: 18
+scene           [1]: 39
+seem            [1]: 20
+should          [1]: 22
+spoke           [1]: 30
+sterner         [1]: 22
+stuff           [1]: 22
+sure            [1]: 29
+thou            [1]: 34
+till            [1]: 37
+told            [1]: 8
+under           [1]: 11
+wept            [1]: 21
+were            [1]: 9
+whose           [1]: 19
+withholds       [1]: 33
+without         [1]: 32

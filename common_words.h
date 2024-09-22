@@ -1,19 +1,23 @@
-#ifndef COMMON_WORDS_H
-#define COMMON_WORDS_H
+/*
+ * common_words.h
+ * 
+ * This is a list of common English words that should be ignored by
+ * the indexer.
+ */
 
-// Array of common words to ignore
-const char *common_words[] = {
-    "the", "and", "is", "in", "at", "of", "on", "for", "with", "a", "an", "to", NULL
-};
+#ifndef _COMMON_WORDS_H_
+#define _COMMON_WORDS_H_
 
-// Function to check if a word is in the common words list
-int is_common_word(const char *word) {
-    for (int i = 0; common_words[i] != NULL; i++) {
-        if (strcmp(word, common_words[i]) == 0) {
-            return 1;  // Word is common
-        }
-    }
-    return 0;  // Word is not common
-}
+const char *common_words[] = {"a", "about", "after", "all", "also", "an",
+ "and", "any", "are", "as", "at", "back", "be", "because", "but", "by",
+ "can", "come", "could", "day", "do", "even", "first", "for", "from", "get",
+ "give", "go", "good", "have", "he", "he", "her", "him", "his", "how", "i",
+ "if", "in", "into", "is", "it", "its", "it's", "just", "know", "like",
+ "look", "make", "me", "most", "my", "new", "no", "not", "now", "of", "on",
+ "one", "only", "or", "other", "our", "out", "over", "people", "say", "see",
+ "she", "so", "some", "take", "than", "that", "the", "their", "them", "then",
+ "there", "these", "they", "think", "this", "time", "to", "two", "up", "us",
+ "use", "want", "way", "we", "well", "we'll", "what", "when", "which", "who",
+ "will", "with", "work", "would", "year", "you", "your", NULL};
 
-#endif
+#endif /* _COMMON_WORDS_H_ */

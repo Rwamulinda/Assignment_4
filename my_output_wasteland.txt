@@ -1,0 +1,1090 @@
+said            [18]: 17,  50,  156,  157,  163,  164,  166,  167,  168,  170,  173,  175,  176,  178,  179,  180,  369
+water           [16]: 27,  59,  151,  225,  353,  381,  382,  384,  385,  388,  396,  399,  400,  403,  406,  409
+were            [13]: 15,  52,  69,  75,  116,  140,  378,  385,  388,  396,  398,  403,  436
+down            [11]: 18,  71,  149,  205,  305,  318,  435,  436,  483
+o               [11]: 144,  223,  226,  288,  345,  346,  363,  485
+rock            [11]: 28,  29,  381,  382,  384,  386,  388,  397,  398,  402,  406
+was             [11]: 17,  42,  108,  161,  183,  213,  312,  364,  377,  451,  476
+dead            [10]: 1,  4,  26,  43,  73,  129,  273,  355,  377,  389
+nothing         [10]: 43,  134,  136,  137,  141,  336,  339
+under           [10]: 28,  29,  66,  119,  132,  234,  330,  358,  464
+man             [8]: 23,  55,  59,  70,  246,  255,  258,  416
+mountains       [8]: 19,  376,  383,  384,  391,  393,  424,  440
+shall           [8]: 147,  148,  149,  150,  153,  221,  482
+eyes            [7]: 42,  52,  70,  92,  140,  154,  242
+here            [7]: 50,  53,  55,  56,  381,  390
+jug             [7]: 114,  229
+upon            [7]: 94,  109,  116,  154,  215,  286,  480
+where           [7]: 25,  72,  89,  129,  292,  407
+city            [6]: 65,  203,  233,  288,  424
+dry             [6]: 27,  218,  387,  392,  405,  445
+goonight        [6]: 187,  188
+night           [6]: 20,  189,  253
+red             [6]: 28,  29,  300,  314,  371,  394
+sound           [6]: 27,  73,  221,  403,  406,  419
+bones           [5]: 129,  209,  218,  359,  445
+broken          [5]: 25,  196,  337,  464,  472
+burning         [5]: 344,  348
+drop            [5]: 408
+feet            [5]: 70,  225,  329,  330,  387
+had             [5]: 48,  68,  177,  183
+hair            [5]: 41,  119,  149,  283,  431
+hurry           [5]: 158,  169,  182,  185,  186
+please          [5]: 158,  169,  182,  185,  186
+rain            [5]: 6,  11,  392,  449,  452
+speak           [5]: 42,  124,  207
+street          [5]: 71,  148,  239,  287,  289
+wind            [5]: 34,  132,  133,  197,  317
+winter          [5]: 7,  20,  66,  214,  234
+air             [4]: 100,  419,  425,  436
+albert          [4]: 164,  172,  180,  183
+among           [4]: 273,  383,  402,  440
+behind          [4]: 31,  92,  214,  481
+brown           [4]: 66,  198,  234,  415
+can't           [4]: 163,  164,  171,  175
+co              [4]: 447
+death           [4]: 59,  68,  216,  353
+departed        [4]: 198,  202,  204,  278
+door            [4]: 132,  154,  444,  468
+empty           [4]: 200,  438,  443,  465
+falling         [4]: 426,  483
+heart           [4]: 44,  329,  458,  476
+home            [4]: 183,  248,  249,  443
+hour            [4]: 13,  242,  247
+king            [4]: 71,  110,  215,  216
+la              [4]: 226,  340,  486
+light           [4]: 44,  94,  107,  433
+london          [4]: 67,  237,  428,  483
+never           [4]: 124,  126,  178,  460
+once            [4]: 266,  364,  468
+sat             [4]: 88,  205,  272,  480
+sea             [4]: 248,  356,  358,  476
+shadow          [4]: 28,  29,  31,  32
+silence         [4]: 44,  372,  391,  454
+softly          [4]: 199,  206,  207,  211
+spring          [4]: 6,  222,  376,  401
+still           [4]: 113,  121,  265
+sweet           [4]: 189,  199,  206,  207
+thames          [4]: 199,  206,  207,  289
+thinking        [4]: 125,  126,  470
+those           [4]: 52,  140,  421,  432
+thunder         [4]: 369,  376,  392,  455
+turn            [4]: 243,  363,  468
+violet          [4]: 242,  247,  425,  433
+white           [4]: 217,  294,  320,  413
+woman           [4]: 49,  281,  416,  431
+again           [3]: 80,  134,  282
+bad             [3]: 48,  123
+bed             [3]: 78,  253,  271
+beside          [3]: 289,  411,  414
+bring           [3]: 62,  176,  221
+cannot          [3]: 24,  386,  389
+da              [3]: 456,  466,  473
+don't           [3]: 166,  170,  181
+each            [3]: 70,  469,  470
+evening         [3]: 32,  214,  247
+faces           [3]: 371,  394,  433
+gave            [3]: 38,  109,  160
+glass           [3]: 89,  97,  277
+hands           [3]: 267,  337,  478
+has             [3]: 77,  78,  444
+hear            [3]: 208,  220,  288
+hot             [3]: 151,  183,  184
+kept            [3]: 7,  72,  437
+key             [3]: 467,  469,  470
+last            [3]: 76,  196,  252
+little          [3]: 9,  218,  379
+living          [3]: 43,  377,  378
+long            [3]: 175,  207,  431
+low             [3]: 217,  218,  260
+mrs             [3]: 61,  222,  223
+nor             [3]: 43,  390
+prison          [3]: 375,  469,  470
+road            [3]: 382,  383,  413
+run             [3]: 199,  206,  207
+shantih         [3]: 490
+singing         [3]: 405,  438,  441
+something       [3]: 30,  57,  167
+spread          [3]: 120,  209,  251
+tiresias        [3]: 245,  255,  270
+towers          [3]: 320,  426,  436
+twit            [3]: 228
+unreal          [3]: 65,  233,  429
+window          [3]: 101,  109,  251
+above           [2]: 108,  383
+age             [2]: 360,  460
+alone           [2]: 180,  282
+always          [2]: 411,  414
+am              [2]: 58,  148
+amongst         [2]: 386,  388
+another         [2]: 92,  414
+antique         [2]: 108,  173
+asked           [2]: 184,  238
+bank            [2]: 197,  212
+barges          [2]: 298,  303
+beating         [2]: 311,  477
+been            [2]: 165,  178
+before          [2]: 70,  216
+bells           [2]: 319,  437
+black           [2]: 431,  452
+bridge          [2]: 67,  483
+came            [2]: 40,  342
+card            [2]: 51,  56
+chapel          [2]: 442,  443
+chess           [2]: 86,  153
+children        [2]: 15,  181
+clutch          [2]: 22,  197
+cold            [2]: 48,  208
+coloured        [2]: 97,  106
+coming          [2]: 10,  159
+crept           [2]: 211,  286
+crying          [2]: 74,  374
+damp            [2]: 217,  448
+damyata         [2]: 474,  489
+datta           [2]: 457,  489
+dayadhvam       [2]: 467,  489
+der             [2]: 34,  35
+dirty           [2]: 114,  337
+distant         [2]: 376,  453
+divan           [2]: 253,  271
+done            [2]: 160,  280
+drip            [2]: 408
+drowned         [2]: 51,  100
+dull            [2]: 6,  213
+ear             [2]: 209
+earth           [2]: 8,  422
+end             [2]: 199,  206
+far             [2]: 79,  453
+fear            [2]: 33,  59
+final           [2]: 73,  274
+fishing         [2]: 213,  481
+flowed          [2]: 67,  71
+fog             [2]: 66,  234
+four            [2]: 152,  165
+friend          [2]: 79,  458
+full            [2]: 41,  236
+gaily           [2]: 475,  477
+game            [2]: 86,  153
+garden          [2]: 40,  76
+glowed          [2]: 89,  121
+gold            [2]: 294,  314
+grass           [2]: 405,  441
+hand            [2]: 283,  475
+he'll           [2]: 80,  160
+head            [2]: 141,  435
+hold            [2]: 18,  293
+hooded          [2]: 415,  421
+hours           [2]: 72,  437
+hyacinth        [2]: 39,  40
+knew            [2]: 43,  74
+ladies          [2]: 189
+lady            [2]: 53,  54
+land            [2]: 4,  198
+leia            [2]: 307,  321
+leialala        [2]: 308,  322
+lord            [2]: 345,  346
+makes           [2]: 172,  269
+many            [2]: 67,  68
+marie           [2]: 17,  18
+meet            [2]: 32,  95
+men             [2]: 79,  129
+merchant        [2]: 56,  235
+moment          [2]: 277,  472
+mon             [2]: 81
+music           [2]: 286,  432
+myself          [2]: 62,  157
+neither         [2]: 42,  390
+noise           [2]: 131,  133
+noon            [2]: 234,  292
+nymphs          [2]: 198,  202
+off             [2]: 172,  176
+oh              [2]: 79,  167
+old             [2]: 246,  255
+others          [2]: 166,  171
+pearls          [2]: 52,  140
+phlebas         [2]: 355,  364
+phoenician      [2]: 51,  355
+pluckest        [2]: 345,  346
+porter          [2]: 222,  223
+remember        [2]: 136,  139
+responded       [2]: 474,  476
+richmond        [2]: 325,  326
+rico            [2]: 447
+river           [2]: 200,  296
+room            [2]: 117,  282
+roots           [2]: 6,  22
+rose            [2]: 95,  359
+round           [2]: 60,  214
+rudely          [2]: 111,  230
+sailor          [2]: 51,  248
+same            [2]: 178,  271
+scene           [2]: 109,  256
+set             [2]: 162,  482
+should          [2]: 332,  385
+show            [2]: 30,  33
+silk            [2]: 201,  261
+song            [2]: 199,  206
+stirring        [2]: 5,  104
+stone           [2]: 27,  106
+stony           [2]: 23,  373
+stop            [2]: 385,  386
+stopped         [2]: 11,  74
+summer          [2]: 10,  202
+swallow         [2]: 485
+swell           [2]: 315,  356
+ta              [2]: 188
+teeth           [2]: 161,  389
+thank           [2]: 61,  168
+that's          [2]: 79,  280
+thou            [2]: 345,  346
+though          [2]: 109,  245
+thought         [2]: 68,  279
+throbbing       [2]: 244,  245
+tight           [2]: 18,  431
+till            [2]: 199,  206
+took            [2]: 16,  176
+trees           [2]: 324,  407
+waiting         [2]: 154,  244
+walking         [2]: 60,  414
+wall            [2]: 272,  435
+wallala         [2]: 308,  322
+walls           [2]: 116,  292
+wash            [2]: 225,  303
+weialala        [2]: 307,  321
+went            [2]: 12,  18
+wept            [2]: 205,  331
+wet             [2]: 41,  197
+wheel           [2]: 55,  363
+while           [2]: 213,  452
+why             [2]: 124,  488
+without         [2]: 384,  392
+won't           [2]: 172,  180
+words           [2]: 121,  157
+wrinkled        [2]: 246,  255
+yet             [2]: 40,  111
+young           [2]: 177,  258
+yourself        [2]: 159,  161
+abolie          [1]: 486
+addresses       [1]: 204
+aethereal       [1]: 471
+affina          [1]: 484
+againe          [1]: 488
+against         [1]: 487
+agent's         [1]: 259
+ago             [1]: 38
+agony           [1]: 373
+ahead           [1]: 413
+albert's        [1]: 159
+alexandria      [1]: 427
+alive           [1]: 141
+alley           [1]: 128
+allows          [1]: 279
+along           [1]: 287
+already         [1]: 177
+april           [1]: 3
+archduke's      [1]: 15
+arid            [1]: 481
+arms            [1]: 41
+army            [1]: 165
+arrives         [1]: 258
+ascended        [1]: 101
+ashamed         [1]: 173
+assaults        [1]: 266
+assurance       [1]: 260
+athens          [1]: 427
+aus             [1]: 14
+automatic       [1]: 283
+awaited         [1]: 257
+aware           [1]: 278
+awful           [1]: 459
+baby            [1]: 433
+bar             [1]: 289
+barbarous       [1]: 110
+bats            [1]: 433
+bear            [1]: 163
+bears           [1]: 200
+beat            [1]: 434
+beats           [1]: 25
+beauty          [1]: 184
+begun           [1]: 77
+belladonna      [1]: 53
+belly           [1]: 212
+below           [1]: 272
+beneficent      [1]: 463
+bestows         [1]: 274
+between         [1]: 245
+bill            [1]: 187
+bin             [1]: 14
+bit             [1]: 159
+blackened       [1]: 435
+blank           [1]: 57
+blast           [1]: 208
+blind           [1]: 245
+blood           [1]: 458
+bloom           [1]: 77
+boat            [1]: 474
+bodies          [1]: 217
+bold            [1]: 259
+bore            [1]: 325
+bored           [1]: 263
+both            [1]: 316
+bottles         [1]: 200
+boxes           [1]: 201
+bradford        [1]: 261
+brain           [1]: 279
+branches        [1]: 22
+breakfast       [1]: 249
+breasts         [1]: 246
+breeding        [1]: 3
+bright          [1]: 223
+bringing        [1]: 449
+brings          [1]: 248
+brisk           [1]: 315
+brother's       [1]: 215
+brush           [1]: 119
+burial          [1]: 1
+burned          [1]: 106
+burnished       [1]: 88
+bursts          [1]: 425
+c               [1]: 237
+called          [1]: 39
+calm            [1]: 476
+camisoles       [1]: 254
+canal           [1]: 213
+candelabra      [1]: 93
+candle-flames   [1]: 102
+cannon          [1]: 239
+canoe           [1]: 327
+car             [1]: 152
+carbuncular     [1]: 258
+cardboard       [1]: 201
+cards           [1]: 50
+careful         [1]: 63
+caresses        [1]: 264
+carious         [1]: 389
+carried         [1]: 318
+carries         [1]: 57
+carthage        [1]: 342
+carv            [1]: 107
+cases           [1]: 96
+cast            [1]: 218
+ceiling         [1]: 104
+ces             [1]: 226
+chair           [1]: 88
+change          [1]: 110
+chantant        [1]: 226
+chatter         [1]: 291
+che             [1]: 484
+chelidon        [1]: 485
+chemist         [1]: 178
+choose          [1]: 171
+chuckle         [1]: 209
+cicada          [1]: 404
+cigarette       [1]: 201
+cisterns        [1]: 438
+clairvoyante    [1]: 47
+clatter         [1]: 291
+clears          [1]: 249
+clerk           [1]: 259
+closed          [1]: 152
+clouds          [1]: 452
+cock            [1]: 446
+coffee          [1]: 13
+coffered        [1]: 104
+colonnade       [1]: 11
+combinations    [1]: 252
+comment         [1]: 332
+confirms        [1]: 470
+confused        [1]: 99
+connect         [1]: 335
+consider        [1]: 364
+controlling     [1]: 478
+copper          [1]: 105
+coriolanus      [1]: 472
+corpse          [1]: 76
+count           [1]: 412
+coupole         [1]: 226
+cousin's        [1]: 16
+covering        [1]: 7
+cracked         [1]: 422
+cracks          [1]: 425
+crawled         [1]: 435
+cricket         [1]: 26
+cried           [1]: 113
+crosses         [1]: 198
+crouched        [1]: 454
+crowd           [1]: 67
+crowds          [1]: 60
+cruellest       [1]: 3
+cry             [1]: 356
+cupidon         [1]: 91
+currants        [1]: 236
+current         [1]: 358
+d               [1]: 107
+d'aquitaine     [1]: 486
+d'enfants       [1]: 226
+dans            [1]: 226
+daring          [1]: 459
+das             [1]: 45
+daughter        [1]: 224
+dawn            [1]: 66
+days            [1]: 63
+dear            [1]: 61
+decayed         [1]: 440
+decided         [1]: 266
+deep            [1]: 356
+defence         [1]: 267
+demobbed        [1]: 156
+demotic         [1]: 238
+desert          [1]: 112
+desire          [1]: 5
+desk            [1]: 243
+deutsch         [1]: 14
+did             [1]: 161
+didn't          [1]: 157
+died            [1]: 177
+different       [1]: 30
+dig             [1]: 80
+dinner          [1]: 184
+directors       [1]: 203
+displayed       [1]: 108
+disturbed       [1]: 78
+documents       [1]: 237
+dog             [1]: 79
+dogs            [1]: 306
+doing           [1]: 133
+dolphin         [1]: 107
+doors           [1]: 395
+doubled         [1]: 93
+downward        [1]: 435
+dragging        [1]: 212
+drank           [1]: 13
+draped          [1]: 463
+drew            [1]: 431
+dried           [1]: 9
+drift           [1]: 298
+drifting        [1]: 304
+drink           [1]: 385
+drying          [1]: 252
+du              [1]: 37
+dugs            [1]: 255
+dust            [1]: 33
+dusty           [1]: 324
+dying           [1]: 378
+ears            [1]: 114
+echt            [1]: 14
+either          [1]: 30
+elegant         [1]: 145
+elizabeth       [1]: 310
+enacted         [1]: 271
+enclosed        [1]: 117
+encounter       [1]: 267
+endeavours      [1]: 264
+ended           [1]: 263
+endless         [1]: 422
+ends            [1]: 201
+engage          [1]: 264
+engine          [1]: 243
+entering        [1]: 361
+equitone        [1]: 61
+et              [1]: 226
+eugenides       [1]: 235
+europe          [1]: 49
+event           [1]: 330
+ever            [1]: 150
+exhaled         [1]: 69
+exhausted       [1]: 438
+existed         [1]: 461
+expect          [1]: 338
+expected        [1]: 257
+expert          [1]: 475
+exploring       [1]: 267
+f               [1]: 237
+face            [1]: 175
+failed          [1]: 42
+faint           [1]: 441
+famous          [1]: 47
+father's        [1]: 216
+fattening       [1]: 102
+fed             [1]: 105
+feeding         [1]: 8
+feel            [1]: 19
+fell            [1]: 359
+female          [1]: 246
+fiam            [1]: 485
+fiddled         [1]: 432
+fiery           [1]: 120
+filled          [1]: 112
+find            [1]: 58
+finding         [1]: 275
+fingernails     [1]: 337
+fingers         [1]: 196
+fire            [1]: 194
+firelight       [1]: 119
+fishmen         [1]: 292
+fit             [1]: 488
+five            [1]: 177
+fixed           [1]: 70
+flames          [1]: 93
+flash           [1]: 448
+flat            [1]: 423
+floor           [1]: 327
+flung           [1]: 103
+flushed         [1]: 266
+foco            [1]: 484
+followed        [1]: 240
+folly           [1]: 281
+food            [1]: 250
+fool            [1]: 179
+foot            [1]: 219
+footsteps       [1]: 118
+forbidden       [1]: 58
+forc'd          [1]: 230
+forced          [1]: 111
+foresuffered    [1]: 270
+foretold        [1]: 256
+forgetful       [1]: 8
+forgot          [1]: 356
+formed          [1]: 312
+forms           [1]: 116
+fortnight       [1]: 355
+found           [1]: 462
+fr              [1]: 81
+fragments       [1]: 487
+framed          [1]: 106
+free            [1]: 19
+french          [1]: 238
+freshened       [1]: 101
+friends         [1]: 203
+frightened      [1]: 17
+frisch          [1]: 34
+frost           [1]: 78
+frosty          [1]: 372
+fruited         [1]: 90
+gammon          [1]: 183
+ganga           [1]: 451
+gar             [1]: 14
+gardens         [1]: 372
+garret          [1]: 218
+gashouse        [1]: 214
+gathered        [1]: 453
+gentile         [1]: 362
+george          [1]: 177
+gilded          [1]: 313
+girl            [1]: 39
+given           [1]: 457
+gives           [1]: 26
+glad            [1]: 280
+gli             [1]: 484
+gliding         [1]: 415
+glitter         [1]: 95
+golden          [1]: 91
+got             [1]: 156
+gramophone      [1]: 284
+graves          [1]: 442
+green           [1]: 106
+greenwich       [1]: 305
+gropes          [1]: 275
+ground          [1]: 217
+grow            [1]: 22
+guess           [1]: 24
+guesses         [1]: 262
+guest           [1]: 257
+gulls           [1]: 356
+gust            [1]: 448
+half-formed     [1]: 279
+handful         [1]: 33
+handkerchiefs   [1]: 201
+handsome        [1]: 364
+hanged          [1]: 59
+hardly          [1]: 278
+harm            [1]: 445
+hat             [1]: 261
+he's            [1]: 165
+heap            [1]: 25
+heard           [1]: 467
+heavy           [1]: 302
+heimat          [1]: 35
+heirs           [1]: 203
+held            [1]: 90
+help            [1]: 175
+hence           [1]: 79
+hermit-thrush   [1]: 407
+hid             [1]: 92
+hieronymo's     [1]: 488
+high            [1]: 419
+highbury        [1]: 325
+hill            [1]: 71
+himavant        [1]: 453
+hofgarten       [1]: 12
+hole            [1]: 440
+homeward        [1]: 248
+hordes          [1]: 421
+horizon         [1]: 423
+horns           [1]: 221
+horoscope       [1]: 62
+hotel           [1]: 239
+house           [1]: 259
+houses          [1]: 395
+huge            [1]: 105
+human           [1]: 243
+humble          [1]: 338
+humped          [1]: 454
+husband         [1]: 156
+hushing         [1]: 117
+hyacinths       [1]: 38
+hypocrite       [1]: 81
+i'll            [1]: 168
+i'm             [1]: 280
+i've            [1]: 178
+ii              [1]: 86
+iii             [1]: 194
+ile             [1]: 488
+images          [1]: 25
+indifference    [1]: 269
+inexplicable    [1]: 294
+infrequent      [1]: 69
+intelligent     [1]: 146
+inviolable      [1]: 112
+invited         [1]: 477
+ionian          [1]: 294
+irisch          [1]: 36
+isle            [1]: 306
+iv              [1]: 353
+ivory           [1]: 97
+jerusalem       [1]: 427
+jew             [1]: 362
+jewels          [1]: 95
+jug'            [1]: 114
+jungle          [1]: 454
+keep            [1]: 79
+keine           [1]: 14
+kew             [1]: 325
+kind            [1]: 36
+kiss            [1]: 274
+knees           [1]: 326
+knock           [1]: 154
+known           [1]: 49
+lack            [1]: 172
+lamentation     [1]: 420
+lands           [1]: 482
+laquearia       [1]: 103
+late            [1]: 40
+lays            [1]: 250
+le              [1]: 486
+leaf            [1]: 196
+lean            [1]: 464
+leaned          [1]: 117
+leaning         [1]: 117
+least           [1]: 482
+leave           [1]: 180
+leaves          [1]: 451
+lecteur         [1]: 81
+leer            [1]: 45
+leeward         [1]: 302
+left            [1]: 204
+leicester       [1]: 310
+leman           [1]: 205
+lidless         [1]: 154
+lie             [1]: 390
+life            [1]: 9
+lightning       [1]: 448
+lights          [1]: 249
+lil             [1]: 162
+lil's           [1]: 156
+lilacs          [1]: 4
+limp            [1]: 451
+liquid          [1]: 99
+litauen         [1]: 14
+lives           [1]: 245
+logs            [1]: 304
+loitering       [1]: 203
+looking         [1]: 44
+looks           [1]: 277
+loss            [1]: 357
+lost            [1]: 129
+lou             [1]: 187
+loud            [1]: 207
+lounge          [1]: 292
+lovely          [1]: 281
+lover           [1]: 278
+lower           [1]: 289
+lowest          [1]: 273
+luncheon        [1]: 239
+lurked          [1]: 98
+mad             [1]: 488
+madame          [1]: 47
+made            [1]: 332
+magnus          [1]: 293
+mandoline       [1]: 290
+mantel          [1]: 108
+mantle          [1]: 415
+marble          [1]: 89
+margate         [1]: 334
+married         [1]: 181
+martyr          [1]: 293
+mary            [1]: 72
+maternal        [1]: 420
+may             [1]: 187
+meal            [1]: 263
+meer            [1]: 45
+mein            [1]: 36
+memories        [1]: 463
+memory          [1]: 5
+metropole       [1]: 240
+millionaire     [1]: 261
+mince           [1]: 157
+mixing          [1]: 4
+moment's        [1]: 459
+money           [1]: 160
+month           [1]: 3
+moon            [1]: 223
+moonlight       [1]: 441
+moorgate        [1]: 329
+more            [1]: 164
+morning         [1]: 31
+motors          [1]: 221
+mountain        [1]: 389
+mouth           [1]: 389
+mr              [1]: 235
+much            [1]: 20
+mudcracked      [1]: 395
+murmur          [1]: 420
+musing          [1]: 215
+must            [1]: 63
+mylae           [1]: 75
+nails           [1]: 80
+naked           [1]: 217
+narrow          [1]: 327
+nearly          [1]: 177
+nel             [1]: 484
+nerves          [1]: 123
+nevertheless    [1]: 48
+nice            [1]: 162
+nightfall       [1]: 471
+nightingale     [1]: 111
+nights          [1]: 202
+nine            [1]: 73
+o'              [1]: 167
+oar             [1]: 475
+oars            [1]: 311
+obedient        [1]: 477
+obituaries      [1]: 462
+odours          [1]: 100
+oed'            [1]: 45
+oil             [1]: 297
+one-eyed        [1]: 56
+orange          [1]: 106
+order           [1]: 482
+ought           [1]: 173
+paces           [1]: 282
+pack            [1]: 50
+palace          [1]: 375
+papers          [1]: 200
+pass            [1]: 279
+passed          [1]: 360
+past            [1]: 306
+patience        [1]: 379
+patronising     [1]: 274
+pattern         [1]: 104
+peal            [1]: 319
+peeped          [1]: 91
+perceived       [1]: 256
+perfumes        [1]: 98
+perilously      [1]: 251
+philomel        [1]: 110
+pick            [1]: 171
+picked          [1]: 359
+piled           [1]: 253
+pills           [1]: 176
+pine            [1]: 407
+places          [1]: 373
+plain           [1]: 481
+plains          [1]: 422
+planted         [1]: 76
+play            [1]: 153
+pleasant        [1]: 290
+pocket          [1]: 236
+poi             [1]: 484
+points          [1]: 120
+pool            [1]: 402
+poor            [1]: 164
+poured          [1]: 96
+powdered        [1]: 99
+pressing        [1]: 154
+prince          [1]: 486
+profit          [1]: 357
+profusion       [1]: 96
+prolonged       [1]: 102
+promised        [1]: 331
+proper          [1]: 179
+propitious      [1]: 262
+prudence        [1]: 460
+public          [1]: 289
+pulling         [1]: 175
+pursues         [1]: 113
+puts            [1]: 284
+quando          [1]: 485
+queen           [1]: 287
+rag             [1]: 144
+rains           [1]: 152
+raised          [1]: 326
+rat             [1]: 211
+rat's           [1]: 219
+rats'           [1]: 128
+rattle          [1]: 209
+rattled         [1]: 219
+rays            [1]: 252
+re              [1]: 81
+reach           [1]: 305
+read            [1]: 20
+record          [1]: 284
+reflecting      [1]: 94
+reforms         [1]: 425
+relief          [1]: 26
+reminiscent     [1]: 437
+requires        [1]: 268
+resent          [1]: 332
+response        [1]: 268
+rest            [1]: 256
+retract         [1]: 460
+reverberation   [1]: 375
+revive          [1]: 472
+rich            [1]: 96
+right           [1]: 178
+ring            [1]: 60
+ringed          [1]: 423
+rippled         [1]: 316
+rising          [1]: 32
+river's         [1]: 196
+rocks           [1]: 53
+rooftree        [1]: 446
+rooms           [1]: 465
+rubbish         [1]: 23
+ruins           [1]: 487
+rumours         [1]: 471
+rush            [1]: 148
+russin          [1]: 14
+s'ascose        [1]: 484
+sad             [1]: 107
+sail            [1]: 475
+sails           [1]: 300
+saint           [1]: 72
+sand            [1]: 387
+sands           [1]: 334
+sandwich        [1]: 200
+sandy           [1]: 382
+satin           [1]: 96
+savagely        [1]: 121
+saw             [1]: 74
+sea-wood        [1]: 105
+seals           [1]: 464
+semblable       [1]: 81
+sense           [1]: 100
+sermon          [1]: 194
+sevenbranched   [1]: 93
+shakespeherian  [1]: 144
+shaking         [1]: 458
+she's           [1]: 177
+shell           [1]: 313
+shelter         [1]: 26
+ships           [1]: 75
+shone           [1]: 223
+shore           [1]: 480
+shored          [1]: 487
+shores          [1]: 316
+short           [1]: 69
+shouting        [1]: 374
+shower          [1]: 11
+shuffled        [1]: 118
+side            [1]: 417
+sighs           [1]: 69
+sight           [1]: 237
+sings           [1]: 407
+sink            [1]: 197
+sit             [1]: 390
+sits            [1]: 260
+situations      [1]: 54
+sled            [1]: 16
+slimy           [1]: 212
+slippers        [1]: 254
+small           [1]: 259
+smart           [1]: 159
+smoke           [1]: 103
+smooths         [1]: 283
+smyrna          [1]: 235
+snarl           [1]: 394
+sneer           [1]: 394
+snow            [1]: 8
+soda            [1]: 225
+solicitor       [1]: 464
+solitude        [1]: 393
+sometimes       [1]: 288
+son             [1]: 23
+sosostris       [1]: 47
+south           [1]: 20
+southwest       [1]: 317
+spar            [1]: 302
+spider          [1]: 463
+spit            [1]: 389
+splendour       [1]: 294
+spoke           [1]: 455
+sprout          [1]: 77
+stages          [1]: 360
+stair           [1]: 118
+stairs          [1]: 275
+stamm'          [1]: 14
+stand           [1]: 390
+standards       [1]: 90
+stare           [1]: 259
+staring         [1]: 116
+starnbergersee  [1]: 10
+start           [1]: 331
+staves          [1]: 55
+stay            [1]: 123
+staying         [1]: 15
+stays           [1]: 254
+sterile         [1]: 392
+stern           [1]: 312
+stetson         [1]: 74
+stirred         [1]: 100
+stockings       [1]: 254
+stood           [1]: 446
+stoops          [1]: 281
+stove           [1]: 250
+straight        [1]: 168
+strand          [1]: 287
+strange         [1]: 98
+stream          [1]: 318
+striding        [1]: 31
+strings         [1]: 432
+strives         [1]: 247
+stroke          [1]: 73
+stumbling       [1]: 422
+stumps          [1]: 115
+sudden          [1]: 78
+sullen          [1]: 394
+sun             [1]: 25
+sun's           [1]: 252
+sunday          [1]: 183
+sunken          [1]: 451
+sunlight        [1]: 12
+supine          [1]: 327
+surprised       [1]: 10
+surrender       [1]: 459
+swam            [1]: 107
+swarming        [1]: 421
+swear           [1]: 163
+sweat           [1]: 387
+sweats          [1]: 296
+sweaty          [1]: 371
+sweeney         [1]: 222
+swing           [1]: 302
+swings          [1]: 444
+sylvan          [1]: 109
+synthetic       [1]: 98
+table           [1]: 94
+talked          [1]: 13
+tall            [1]: 364
+tar             [1]: 297
+taxi            [1]: 244
+teatime         [1]: 249
+tell            [1]: 62
+telling         [1]: 172
+ten             [1]: 151
+tent            [1]: 196
+tereu           [1]: 231
+testimony       [1]: 202
+thebes          [1]: 272
+there's         [1]: 166
+third           [1]: 411
+thirty-one      [1]: 174
+three           [1]: 55
+throne          [1]: 88
+through         [1]: 211
+tide            [1]: 299
+tins            [1]: 250
+tired           [1]: 263
+together        [1]: 412
+told            [1]: 116
+tolling         [1]: 437
+tomorrow        [1]: 149
+tonight         [1]: 123
+too             [1]: 257
+torchlight      [1]: 371
+touched         [1]: 252
+tour            [1]: 486
+trams           [1]: 324
+tree            [1]: 26
+troubled        [1]: 99
+tubers          [1]: 9
+tumbled         [1]: 442
+turning         [1]: 299
+turns           [1]: 277
+typist          [1]: 249
+und             [1]: 45
+undesired       [1]: 265
+undid           [1]: 326
+undone          [1]: 68
+unguent         [1]: 99
+unheard         [1]: 198
+unlit           [1]: 275
+unreproved      [1]: 265
+unshaven        [1]: 236
+unstoppered     [1]: 98
+upside          [1]: 436
+upward          [1]: 243
+uti             [1]: 485
+v               [1]: 369
+vanity          [1]: 268
+vegetation      [1]: 211
+vials           [1]: 97
+victoria        [1]: 287
+vienna          [1]: 428
+vines           [1]: 90
+voice           [1]: 112
+voices          [1]: 438
+voix            [1]: 226
+waited          [1]: 452
+waits           [1]: 243
+walk            [1]: 148
+walked          [1]: 273
+walks           [1]: 411
+wants           [1]: 165
+warm            [1]: 7
+waters          [1]: 205
+waters'         [1]: 286
+weekend         [1]: 240
+weht            [1]: 34
+weilest         [1]: 37
+welcome         [1]: 269
+wells           [1]: 438
+whether         [1]: 416
+whining         [1]: 290
+whirlpool       [1]: 361
+whisper         [1]: 432
+whispers        [1]: 359
+whistled        [1]: 434
+whom            [1]: 260
+wicked          [1]: 50
+wide            [1]: 301
+william         [1]: 71
+wind's          [1]: 443
+winding         [1]: 383
+windows         [1]: 444
+windward        [1]: 363
+wing            [1]: 92
+wings           [1]: 434
+wisest          [1]: 49
+withered        [1]: 115
+within          [1]: 291
+wo              [1]: 37
+woolnoth        [1]: 72
+world           [1]: 113
+wrapt           [1]: 415
+wreck           [1]: 215
+wrought         [1]: 90
+years           [1]: 165
+yes             [1]: 123
+youth           [1]: 360
+zu              [1]: 35
